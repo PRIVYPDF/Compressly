@@ -1,0 +1,6 @@
+{
+  "name": "Compressly - Online Image Compressor",
+  "description": "Compress JPG, PNG and WebP images online. Reduce image size to 20KB, 50KB, 100KB or a custom size quickly and easily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
